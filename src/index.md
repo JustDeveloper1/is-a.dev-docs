@@ -1,7 +1,4 @@
----
-label: Welcome
-icon: home
----
+_just: title: Welcome
 <!-- Do not provide meta name as it messes with SEO -->
 ![](media/banner.png)
 
