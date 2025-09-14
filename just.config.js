@@ -1,3 +1,4 @@
+
 module.exports = {
   mode: "generator",
   domain: "docs.is-a.dev",
